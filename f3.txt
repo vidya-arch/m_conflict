@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 today we are 
 doing merge 
 conflict
+=======
+abcdefghijklm
+nopqrstuvwxyz
+>>>>>>> fb
